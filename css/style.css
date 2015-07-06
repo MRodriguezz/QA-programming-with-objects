@@ -1,0 +1,30 @@
+body {
+	padding: 20px 10px;
+	font-family: helvetica;
+	max-width: 1500px;
+	font-size: 1.4em;
+}
+li {
+	list-style-type: circle;
+	font-size: 20px;
+	color: #0000ff;
+}
+h3 {
+	font-size: 30px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+}
+.informationConcept {
+	background-color: #808080;
+	margin: 10px;	
+	border-radius: 20px;
+	padding: 15px;
+}
+.conceptTitle {
+	font-size: 15px;
+	color: #ff0000;
+}
+.conceptDescription {
+	color: #000000;
+}
